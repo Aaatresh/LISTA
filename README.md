@@ -48,4 +48,4 @@ Contributors names and contact info
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-* [yann.lecun.com](https://http://yann.lecun.com/)
+* [yann.lecun.com](http://yann.lecun.com/)
