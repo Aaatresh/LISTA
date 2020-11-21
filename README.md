@@ -14,9 +14,10 @@ This repository outlines the implementation of a LISTA network in Python using t
 ## Getting Started
 
 ### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* PyTorch = 1.6
+* Numpy = 1.19
+* Scikit-learn = 0.22
+* Matplotlib = 3.3
 
 ### Installing
 ```
@@ -35,7 +36,7 @@ jupyter notebook
 
 ## Authors
 
-Contributors names and contact info
+Contributors names and contact info:
 * Anirudh Aatresh (aaa.171ec106@nitk.edu.in)  
 
 
