@@ -37,11 +37,11 @@ jupyter notebook
 ## Authors
 
 Contributors names and contact info:
-* Anirudh Aatresh (aaa.171ec106@nitk.edu.in)  
+* Anirudh Aatresh ([anirudhashokaatresh@gmail.com](mailto:anirudhashokaatresh@gmail.com))  
 
 
 ## Version History
-* 0.1
+* 1.0
     * Initial Release
 
 ## License
